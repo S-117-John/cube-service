@@ -6,7 +6,9 @@
 
         <module>eureka-server</module>
         <module>test</module>
-        <module>core</module>
+        <module>generator</module>
+        <module>web</module>
+
     </modules>
     <groupId>com.cube</groupId>
     <artifactId>framework</artifactId>
